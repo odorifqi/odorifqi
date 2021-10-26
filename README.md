@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @odorifqi
-- 👀 I’m interested in Front-end development, UX research and UI design
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on your team as a crewmate, and i'm also into freelancing
-- 📫 hit me up at:
+Hi, I’m @odorifqi
+
+I’m interested in Front-end development, UX research and UI design
+
+I’m currently learning Web Development with `ReactJS`
+
+I’m looking to collaborate on your team as a crewmate, and i'm also into freelancing
+
+📫 hit me up at:
   - jagaxlelap@gmail.com
   - <a href="https://www.twitter.com/odorifqi" target="_blank">twitter<a/>
   - <a href="https://www.instagram.com/odorifqi" target="_blank">instagram<a/>
