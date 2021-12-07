@@ -1,10 +1,8 @@
 Hi, I’m @odorifqi
 
-I’m interested in Front-end development, UX research and UI design
+I Recently graduated from college in 2021 majoring in computer science. I'm interested in User Interface development and currently focusing my interest to learn about UI/UX development and front-end Web Development with `ReactJS` to implement my design works. I also have some experience in organization as i was involved for two period in my college's Student executive board of Faculty. 
 
-I’m currently learning Web Development with `ReactJS`
-
-I’m looking to collaborate on your team as a crewmate, and i'm also into freelancing
+`I’m Looking forward to step up the game. `
 
 📫 hit me up at:
   - jagaxlelap@gmail.com
