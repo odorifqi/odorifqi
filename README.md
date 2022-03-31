@@ -1,14 +1,9 @@
 Hi, I’m @odorifqi
 
-I Recently graduated from college in 2021 majoring in computer science. I'm interested in User Interface development and currently focusing my interest to learn about UI/UX development and front-end Web Development with `ReactJS` to implement my design works. I also have some experience in organization as i was involved for two period in my college's Student executive board of Faculty. 
+Indonesia-based with a background in computer science, interested and focused on UI/UX design. Prioritizing user's experience, I'm designing to solve problems efficiently. Looking ahead to a further future, one small step at a time. Feel free to check my social portfolio below for my recent work, hit my email and be friends, or maybe collaborate! Thanks for visiting!
 
-`I’m Looking forward to step up the game. `
+odorifqi@gmail.com | <a href="https://www.behance.net/odorifqi" target="_blank">Behance<a/>  
 
-📫 hit me up at:
-  - jagaxlelap@gmail.com
-  - <a href="https://www.dribbble.com/odorifqi" target="_blank">dribbble<a/>  
-  - <a href="https://www.twitter.com/odorifqi" target="_blank">twitter<a/>
-  - <a href="https://www.instagram.com/odorifqi" target="_blank">instagram<a/>
   
 <!---
 odorifqi/odorifqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
