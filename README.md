@@ -4,6 +4,7 @@ Indonesia-based with a background in computer science, interested and focused on
 
 odorifqi@gmail.com  |  <a href="https://www.behance.net/odorifqi" target="_blank">Behance<a/>  |  <a href="https://medium.com/@odorifqi" target="_blank">Medium<a/>
 
+![](https://komarev.com/ghpvc/?username=odorifqi&abbreviated=true)
   
 <!---
 odorifqi/odorifqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
